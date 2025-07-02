@@ -86,7 +86,7 @@ export default function SignUp() {
           
           <Logo
             src="https://res.cloudinary.com/dpl13am8i/image/upload/v1750708844/images_yk6zdj.png"
-            alt="Album ejemplo"
+            alt="Logo"
           />
 
           
